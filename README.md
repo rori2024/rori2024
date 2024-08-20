@@ -22,13 +22,13 @@ Sección de desarrollo de aplicaciones web, móvil y desktop del departamento de
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=encrypthdd&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=encrypthdd&theme=apprentice&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=rori2024&theme=apprentice&no-frame=false&no-bg=true&margin-w=4)
 
 ## 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=encrypthdd&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=rori2024&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=encrypthdd&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=rori2024&icon=0&color=0)](https://visitcount.itsvg.in)
 
  
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
